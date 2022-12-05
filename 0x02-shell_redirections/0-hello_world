@@ -1,2 +1,2 @@
-0-hello_world
-0-hello_world.sh
+#!/bin/bash
+echo 'Hello, World'
